@@ -19,24 +19,21 @@ Obrigado por visitar o meu README. Sou um desenvolvedor júnior com uma paixão 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+
 ### Cibersegurança
 - 🕵️‍♂️ Penetration Testing
 - 🔍 Análise de Vulnerabilidades
 - 🔐 Criptografia
 
-## Projetos Recentes
-1. **Projeto de Cibersegurança**: [Link para o repositório](#)
-   - Descrição: Implementação de testes de penetração e análise de vulnerabilidades.
-   
-2. **Aplicativo Web em JavaScript**: [Link para o repositório](#)
-   - Descrição: Aplicativo web interativo usando JavaScript e APIs RESTful.
 
-3. **Sistema de Gerenciamento de Senhas**: [Link para o repositório](#)
-   - Descrição: Aplicativo seguro para armazenar e gerenciar senhas usando criptografia.
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/moisesdsilva/)
+<div>
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/moisesdsilva/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>- 
+  
   
 
 ![Obrigado](https://via.placeholder.com/800x100.png?text=Obrigado+por+visitar!)
