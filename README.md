@@ -2,7 +2,7 @@
 
 ![Banner](https://via.placeholder.com/800x200.png?text=Bem-vindo+ao+meu+README!)
 
-### Olá! 👋
+### Olá Meu nome é Moises da Silva! 👋
 Obrigado por visitar o meu README. Sou um desenvolvedor júnior com uma paixão por cibersegurança e programação. Aqui você encontrará mais informações sobre mim, meus projetos e minhas habilidades.
 
 ## Sobre Mim
@@ -33,8 +33,18 @@ Obrigado por visitar o meu README. Sou um desenvolvedor júnior com uma paixão 
 <a href="https://www.instagram.com/moisessilvaa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/moisesdsilva/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>- 
-  
-  
 
-![Obrigado](https://via.placeholder.com/800x100.png?text=Obrigado+por+visitar!)
 
+<div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=moisessilva&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=moisessilva&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=moisessilva&show_icons=true" />
+</picture>
+</div>- 
