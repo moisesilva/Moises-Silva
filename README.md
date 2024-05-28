@@ -1,6 +1,6 @@
 # Bem-vindo ao meu README!
 
-![Banner](https://via.placeholder.com/800x200.png?text=Bem-vindo+ao+meu+README!)
+![Banner](giphy.gif)
 
 ### Olá Meu nome é Moises da Silva! 👋
 Obrigado por visitar o meu README. Sou um desenvolvedor júnior com uma paixão por cibersegurança e programação. Aqui você encontrará mais informações sobre mim, meus projetos e minhas habilidades.
